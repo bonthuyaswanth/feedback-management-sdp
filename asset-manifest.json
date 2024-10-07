@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/feedback-management-sdp/static/css/main.f6e0b3b1.css",
+    "main.js": "/feedback-management-sdp/static/js/main.139e846b.js",
+    "static/js/453.39aed6ae.chunk.js": "/feedback-management-sdp/static/js/453.39aed6ae.chunk.js",
+    "static/media/background.jpg": "/feedback-management-sdp/static/media/background.526ac0dc914bf052dcc5.jpg",
+    "index.html": "/feedback-management-sdp/index.html",
+    "main.f6e0b3b1.css.map": "/feedback-management-sdp/static/css/main.f6e0b3b1.css.map",
+    "main.139e846b.js.map": "/feedback-management-sdp/static/js/main.139e846b.js.map",
+    "453.39aed6ae.chunk.js.map": "/feedback-management-sdp/static/js/453.39aed6ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6e0b3b1.css",
+    "static/js/main.139e846b.js"
+  ]
+}
